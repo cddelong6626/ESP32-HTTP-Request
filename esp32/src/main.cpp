@@ -1,8 +1,8 @@
 #include <Arduino.h>
 #include <WiFi.h>
 
-const char* ssid = "Schrute Farms";
-const char* password = "22156498@CDe";
+const char* ssid = ""; // WiFi SSID
+const char* password = ""; // WiFi password
 
 const char* host =  "172.20.10.3";
 const uint16_t port = 5000;
